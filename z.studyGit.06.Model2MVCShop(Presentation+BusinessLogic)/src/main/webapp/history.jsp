@@ -5,7 +5,7 @@
 <html>
 <head>
 
-<title>열어본 상품 보기</title>
+<title>열어본 상품 보기!</title>
 
 </head>
 <body>
